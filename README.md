@@ -1,11 +1,11 @@
-# -
+# 聊天室
 This is the demo for chatting in the same local area network and you can achieve Voice Dictation...
 ## 项目介绍
 本项目是基于java开发的聊天室（添加了语音转写的功能）。有用户注册、用户登陆、用户聊天、语音转写、显示聊天室用户列表等局域网客户端通信功能。如果服务器还没有启动，则客户端的操作是不会有任何响应的。本项目可以解决部分局域网通信的基本需求。
 ## 项目展示
-![](img-folder/chatting-1.PNG)
-![](img-folder/chatting-2.PNG)
-![](img-folder/chatting-3.PNG)
+![](https://github.com/Eleven-is-cool/img-folder/blob/master/chatting-1.PNG)
+![](https://github.com/Eleven-is-cool/img-folder/blob/master/chatting-2.PNG)
+![](https://github.com/Eleven-is-cool/img-folder/blob/master/chatting-3.PNG)
 ## 项目部署
 首先将项目导入eclipse中，将socket中的ip改为作为服务器端主机的ip，访问数据库的ip改为作为数据存储的主机的ip，com.iflytek.util包中的版本号根据自己申请的讯飞账号的appid更改。
 
